@@ -10,7 +10,7 @@ Convert Binary 11101001 to Octal.
 Convert Hexadecimal FC to Binary.
 11111100
 Convert Hexadecimal 1F to Decimal.
-11111
+31
 Convert Hexadecimal #FAAFBD to RGB.
 R:250 G:175 B:189
 Convert Octal 70 to Binary.
