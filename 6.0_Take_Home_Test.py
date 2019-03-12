@@ -1,5 +1,5 @@
 '''
-HONOR CODE: I solemnly promise that while taking this test I will only use any resources except my brain.
+HONOR CODE: I solemnly promise that while taking this test I will not use any resources except my brain.
 Signed: Noah mable
 
 
@@ -18,5 +18,5 @@ Signed: Noah mable
 7.) Convert RGB (32,128,64) to Hexadecimal.
 #208080
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII.
-
+ASCII
 '''
