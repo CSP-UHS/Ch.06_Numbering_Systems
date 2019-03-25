@@ -1,6 +1,6 @@
 '''
 HONOR CODE: I solemnly promise that while taking this test I will not use any resources except my brain.
-Signed: ______________________
+Signed: aidan kugley
 
 
 1.) Convert Binary 101010 to Hexadecimal.
