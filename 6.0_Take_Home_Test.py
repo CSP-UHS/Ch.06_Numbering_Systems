@@ -3,15 +3,15 @@ HONOR CODE: I solemnly promise that while taking this test I will not use any re
 Signed: aidan kugley
 
 
-1.) Convert Binary 101010 to Hexadecimal.
+1.) Convert Binary 101010 to Hexadecimal. 2a
 
-2.) Convert Binary 11101001 to Octal.
+2.) Convert Binary 11101001 to Octal. 351
 
-3.) Convert Hexadecimal FC to Binary.
+3.) Convert Hexadecimal FC to Binary. 11101001
 
-4.) Convert Hexadecimal 1F to Decimal.
+4.) Convert Hexadecimal 1F to Decimal. 31
 
-5.) Convert Hexadecimal #FAAFBD to RGB.
+5.) Convert Hexadecimal #FAAFBD to RGB. rgb(250,175,189)
 
 6.) Convert Octal 70 to Binary.
 
