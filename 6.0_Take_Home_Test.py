@@ -13,9 +13,9 @@ Signed: aidan kugley
 
 5.) Convert Hexadecimal #FAAFBD to RGB. rgb(250,175,189)
 
-6.) Convert Octal 70 to Binary.
+6.) Convert Octal 70 to Binary. 111000
 
-7.) Convert RGB (32,128,64) to Hexadecimal.
+7.) Convert RGB (32,128,64) to Hexadecimal. #208040
 
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII.
 
