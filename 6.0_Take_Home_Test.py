@@ -18,5 +18,5 @@ Signed: aidan kugley
 7.) Convert RGB (32,128,64) to Hexadecimal. #208040
 
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII. ASCII
-
+.
 '''
