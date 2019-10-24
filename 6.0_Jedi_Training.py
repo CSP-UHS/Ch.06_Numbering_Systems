@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+Sign your name: Julie Pham
 
 
 1.) Convert Binary 101010 to Hexadecimal.
