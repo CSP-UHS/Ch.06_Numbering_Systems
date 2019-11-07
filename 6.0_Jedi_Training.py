@@ -3,9 +3,9 @@ Sign your name:Kenny Flory
 
 
 1.) Convert Binary 101010 to Hexadecimal.
-66
+2A
 2.) Convert Binary 11101001 to Octal.
-155
+351
 3.) Convert Hexadecimal FC to Binary.
 11111100
 4.) Convert Hexadecimal 1F to Decimal.
