@@ -10,7 +10,7 @@ Sign your name: Cal Watson
 
 4.) Convert Hexadecimal 1F to Decimal. 31
 
-5.) Convert Hexadecimal #FAAFBD to RGB. RGB(250,178,189)
+5.) Convert Hexadecimal #FAAFBD to RGB. RGB(250,175,189)
 
 6.) Convert Octal 70 to Binary. 111000
 
