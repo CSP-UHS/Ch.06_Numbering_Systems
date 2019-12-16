@@ -3,9 +3,9 @@ Sign your name:Nha
 
 
 1.) Convert Binary 101010 to Hexadecimal.
-0x18A92
+2A
 2.) Convert Binary 11101001 to Octal.
-0o52261511
+351
 3.) Convert Hexadecimal FC to Binary.
 11111100
 4.) Convert Hexadecimal 1F to Decimal.
