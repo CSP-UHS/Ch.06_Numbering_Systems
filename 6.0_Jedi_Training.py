@@ -1,5 +1,5 @@
 '''
-Sign your name:________________
+Sign your name: Joe Schmidt
 
 
 1.) Convert Binary 101010 to Hexadecimal.
