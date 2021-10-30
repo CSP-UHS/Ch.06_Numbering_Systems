@@ -3,7 +3,7 @@ Sign your name:______Jaxson__________
 
 
 1.) Convert Binary 101010 to Hexadecimal.
-52
+2A
 
 2.) Convert Binary 11101001 to Octal.
 351
@@ -14,7 +14,7 @@ Sign your name:______Jaxson__________
 5.) Convert Hexadecimal #FAAFBD to RGB.
 250, 175, 189
 6.) Convert Octal 70 to Binary.
-00111000
+111000
 7.) Convert RGB (32,128,64) to Hexadecimal.
 208040
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII.
