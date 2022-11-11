@@ -15,7 +15,7 @@ if code == "see your answers" or code == "2":
     '''
     3.) Convert Hexadecimal FC to Binary.
     '''
-    print("\n3. 252")
+    print("\n3. 11111100")
     '''
     4.) Convert Hexadecimal 1F to Decimal.
     '''
@@ -23,7 +23,7 @@ if code == "see your answers" or code == "2":
     '''
     5.) Convert Hexadecimal #FAAFBD to RGB.
     '''
-    print("\n5. 160,175,189")
+    print("\n5. 250,175,189")
     '''
     6.) Convert Octal 70 to Binary.
     '''
