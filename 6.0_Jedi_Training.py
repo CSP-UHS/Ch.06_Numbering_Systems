@@ -7,7 +7,7 @@ Sign your name:Aidan Zimmerman
 2.) Convert Binary 11101001 to Octal.
 351
 3.) Convert Hexadecimal FC to Binary.
-243
+11111100
 4.) Convert Hexadecimal 1F to Decimal.
 31
 5.) Convert Hexadecimal #FAAFBD to RGB.
