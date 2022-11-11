@@ -23,7 +23,7 @@ if code == "see your answers" or code == "2":
     '''
     5.) Convert Hexadecimal #FAAFBD to RGB.
     '''
-    print("\n5. 250,175,189")
+    print("\n5. #250,175,189")
     '''
     6.) Convert Octal 70 to Binary.
     '''
