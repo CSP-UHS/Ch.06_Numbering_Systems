@@ -1,4 +1,4 @@
-<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2>Chapter 6 Numbering Systems</H2>
+<H2>Chapter 6 Numbering Systems</H2>
 
 In this chapter you will be learning about numbering systems. Below are video tutorials on everything you need to know about Numbering Systems and how to convert between them.
 
