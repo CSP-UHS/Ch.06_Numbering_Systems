@@ -19,6 +19,6 @@
 8.) Convert 01000001, 01010011, 01000011, 01001001, 01001001 to ASCII. (1pt)
 
 9.) Reached 2000 on the Binary Game? Upload screen shot!  (7pt)
-https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw
+https://learningcontent.cisco.com/games/binary/index.html
 
 '''
